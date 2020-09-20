@@ -22,13 +22,7 @@ Project aims to create website site page.
         |----images (folder)
 ```
 
-## Expected Outcome
 
-![Project 004 Snapshot](Project_004_1.png)
-
-![Project 004 Snapshot](Project_004_2.png)
-
-![Project 004 Snapshot](Project_004_3.png)
 
 ## Objective
 
