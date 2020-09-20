@@ -73,5 +73,3 @@ Build a Landing that is functionally similar to this: [Website Page Design](http
 -  [Images](https://github.com/clarusway/clarusway-full-stack-6-20/tree/master/html-css/projects/004-website-page-design/img)
 
 
-## Happy coding!
-
